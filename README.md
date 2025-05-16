@@ -25,6 +25,6 @@ To analyze customer transaction data in order to uncover sales patterns, custome
 * There is a **moderate positive correlation (r = 0.31)** between packet size and total sales.
   **Recommendation:** Consider bundling or upsizing strategies to increase average transaction value.
 * Brands like **Kettle, Smiths, Doritos, and Pringles** dominates overall sales.
-  **Recommendation:**Ensure these popular brands are available across all distribution channels, including online and in smaller convenience stores, as they likely have a strong customer base.
+  **Recommendation:** Ensure these popular brands are available across all distribution channels, including online and in smaller convenience stores, as they likely have a strong customer base.
 
 
