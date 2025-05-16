@@ -19,12 +19,12 @@ To analyze customer transaction data in order to uncover sales patterns, custome
 
 ## Conclusion and Recommendations 
 * **Mainstream customers and Old age Couples/Singles Families** contribute the most to total chip sales and show a preference for larger pack sizes.
-  #Recommendation: Launch targeted promotions and provide free Home delivery esp. for old age ones to boost the sales at these segments.
+  **Recommendation:** Launch targeted promotions and provide free Home delivery esp. for old age ones to boost the sales at these segments.
 * **March** saw the highest spike in sales, likely due to seasonal factors or promotions.
-  Recommendation: Align major campaigns and discount offers around March to capitalize on demand.
+  **Recommendation:** Align major campaigns and discount offers around March to capitalize on demand.
 * There is a **moderate positive correlation (r = 0.31)** between packet size and total sales.
-  Recommendation: Consider bundling or upsizing strategies to increase average transaction value.
+  **Recommendation:** Consider bundling or upsizing strategies to increase average transaction value.
 * Brands like **Kettle, Smiths, Doritos, and Pringles** dominates overall sales.
-  Recommendation:Ensure these popular brands are available across all distribution channels, including online and in smaller convenience stores, as they likely have a strong customer base.
+  **Recommendation:**Ensure these popular brands are available across all distribution channels, including online and in smaller convenience stores, as they likely have a strong customer base.
 
 
