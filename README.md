@@ -17,9 +17,9 @@ To analyze customer transaction data in order to uncover sales patterns, custome
 * **Time Series Analysis**: Converted Excel date formats using pd.to_datetime() and performed monthly trend analysis with .dt.month and .groupby().
 * **Data Visualization**: Created visual insights using matplotlib and seaborn (bar charts, line graphs, count plots) to compare customer segments, sales trends, and brand performance.
 
-## Conclusion  
+## Conclusion and Recommendations 
 * **Mainstream customers and Old age Couples/Singles Families** contribute the most to total chip sales and show a preference for larger pack sizes.
-  Recommendation: Launch targeted promotions and provide free Home delivery esp. for old age ones to boost the sales at these segments.
+  #Recommendation: Launch targeted promotions and provide free Home delivery esp. for old age ones to boost the sales at these segments.
 * **March** saw the highest spike in sales, likely due to seasonal factors or promotions.
   Recommendation: Align major campaigns and discount offers around March to capitalize on demand.
 * There is a **moderate positive correlation (r = 0.31)** between packet size and total sales.
